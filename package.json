@@ -27,7 +27,7 @@
     "cross-env": "^6.0.3",
     "eslint": "~5.16.0",
     "eslint-plugin-vue": "~5.0.0",
-    "node-sass": "~4.9.0",
+    "node-sass": "~7.0.0",
     "postinstall": "~0.4.2",
     "sass-loader": "~7.1.0",
     "vue-template-compiler": "~2.6.10"
